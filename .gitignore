@@ -1,0 +1,7 @@
+.vs/
+*.vc.opendb
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
